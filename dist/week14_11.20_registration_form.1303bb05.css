@@ -1,0 +1,16 @@
+body {
+  font-family: Roboto, Helvetica, sans-serif;
+}
+
+label {
+  width: 100px;
+  display: inline-block;
+}
+
+.error {
+  color: red;
+  margin-left: 100px;
+  font-size: smaller;
+  display: block;
+}
+/*# sourceMappingURL=week14_11.20_registration_form.1303bb05.css.map */
